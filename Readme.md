@@ -4,6 +4,12 @@
 
 This repository is an example on how to test a [Ruby](https://www.ruby-lang.org/en/) project using [Buildkite](https://buildkite.com/) and [rbenv](https://github.com/rbenv/rbenv). 
 
+## How does it work?
+
+It uses a local agent environment hook in [.buildkite/hooks/environment](.buildkite/hooks/environment) to setup rbenv.
+
+[Read more about agent hooks](https://buildkite.com/docs/agent/hooks)
+
 ## License
 
 See [Licence.md](Licence.md) (MIT)
