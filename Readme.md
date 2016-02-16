@@ -8,7 +8,7 @@ This repository is an example on how to test a [Ruby](https://www.ruby-lang.org/
 
 It uses a local agent environment hook in [.buildkite/hooks/environment](.buildkite/hooks/environment) to setup rbenv.
 
-[Read more about agent hooks](https://buildkite.com/docs/agent/hooks)
+See the [agent hook documentation](https://buildkite.com/docs/agent/hooks) for more information on how agent hooks work.
 
 ## License
 
