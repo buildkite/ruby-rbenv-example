@@ -1,6 +1,5 @@
 {
   "name": "Ruby rbenv Example",
-  "repository": "https://github.com/buildkite/ruby-rbenv-example.git",
   "steps": [
     {
       "type": "script",
