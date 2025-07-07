@@ -5,7 +5,6 @@ color: "#FDF5F5"
 languages:
   - "Ruby"
   - "Shell"
-  - "YAML"
 steps:
   - command: "buildkite-agent pipeline upload"
     label: ":pipeline:"
