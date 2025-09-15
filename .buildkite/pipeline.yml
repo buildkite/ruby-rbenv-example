@@ -1,3 +1,4 @@
+image: "sorchaabel/ruby-pipeline-example:1.0"
 steps:
   - name: ":rspec:"
     command: "bundle install && bundle exec rspec --color specs"
